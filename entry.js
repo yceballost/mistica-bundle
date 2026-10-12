@@ -7,6 +7,8 @@ export {
     getBlauSkin,
     skinVars,
     Avatar,
+    Tag,
+    MediaCard,
     FunnelNavigationBar,
     NavigationBarActionGroup,
     NavigationBarAction,
