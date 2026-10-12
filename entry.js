@@ -1,7 +1,9 @@
 export {
     Avatar,
-    ButtonLink,
     ButtonPrimary,
+    ButtonSecondary,
+    ButtonLink,
+    ButtonDanger,
     Circle,
     DataCard,
     ErrorFeedbackScreen,
@@ -37,4 +39,5 @@ export {
     getVivoSkin,
     skinVars,
     useScreenSize,
+    Logo,
 } from "@telefonica/mistica"
