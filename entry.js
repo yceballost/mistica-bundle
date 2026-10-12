@@ -53,6 +53,7 @@ export {
     Text10,
     TextField,
     ThemeContextProvider,
+    ThemeVariant,
     getBlauSkin,
     getEsimflagSkin,
     getMovistarSkin,
