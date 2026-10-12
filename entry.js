@@ -8,6 +8,7 @@ export {
     DataCard,
     ErrorFeedbackScreen,
     FunnelNavigationBar,
+    MainNavigationBar,
     IconCloseRegular,
     IconQuestionRegular,
     Image,
