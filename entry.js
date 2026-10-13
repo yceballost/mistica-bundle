@@ -75,6 +75,7 @@ export {
     Table,
     StackingGroup,
     Slider,
+    Pagination,
     getBlauSkin,
     getEsimflagSkin,
     getMovistarSkin,
