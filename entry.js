@@ -54,6 +54,7 @@ export {
     TextField,
     ThemeContextProvider,
     ThemeVariant,
+    Inline,
     getBlauSkin,
     getEsimflagSkin,
     getMovistarSkin,
