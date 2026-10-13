@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node generate-entries.js && rm -rf dist/chunks && esbuild mistica=entry.resolved.js mistica-icons=icons-entry.js --bundle --splitting --format=esm --minify --external:react --external:react-dom --external:react/jsx-runtime --outdir=dist --chunk-names=chunks/[name]-[hash] && cp node_modules/@telefonica/mistica/css/mistica.css dist/mistica.css",
+    "build": "node generate-entries.js && rm -rf dist/chunks && node build.mjs && cp node_modules/@telefonica/mistica/css/mistica.css dist/mistica.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
