@@ -124,6 +124,7 @@ export { getVivoEvolutionSkin as getVivoEvolutionSkin } from "@telefonica/mistic
 export { getVivoSkin as getVivoSkin } from "@telefonica/mistica/dist-es/skins/vivo.js"
 export { vars as skinVars } from "@telefonica/mistica/dist-es/skins/skin-contract.css-mistica.js"
 export { useScreenSize as useScreenSize } from "@telefonica/mistica/dist-es/hooks.js"
+export { useIsInViewport as useIsInViewport } from "@telefonica/mistica/dist-es/hooks.js"
 export { Logo as Logo } from "@telefonica/mistica/dist-es/logo.js"
 export { default as Badge } from "@telefonica/mistica/dist-es/badge.js"
 export { default as Chip } from "@telefonica/mistica/dist-es/chip.js"

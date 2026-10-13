@@ -125,6 +125,7 @@ export {
     getVivoSkin,
     skinVars,
     useScreenSize,
+    useIsInViewport,
     Logo,
     Badge,
     Chip,
