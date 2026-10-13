@@ -74,6 +74,7 @@ export {
     Spinner,
     Table,
     StackingGroup,
+    Slider,
     getBlauSkin,
     getEsimflagSkin,
     getMovistarSkin,
