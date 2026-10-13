@@ -73,6 +73,7 @@ export {
     SkipLinkNav,
     Spinner,
     Table,
+    StackingGroup,
     getBlauSkin,
     getEsimflagSkin,
     getMovistarSkin,
